@@ -1,0 +1,17 @@
+[
+    {
+        "year": "1996",
+        "make": "Mazda",
+        "model": "RX7",
+        "price": "2000",
+        "mileage": "28327834",
+        "vin": "4KE83JXSL02382ICK",
+        "color": "Red",
+        "type": "Coupe",
+        "drive": "MT",
+        "engine": "Rotary",
+        "fuel": "Gas",
+        "description": "Runs smooth",
+        "image_path": "images\/1999-mazda-rx7"
+    }
+]

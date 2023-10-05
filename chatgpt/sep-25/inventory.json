@@ -1,0 +1,467 @@
+[
+    {
+        "make": "Audi", 
+        "models": [
+            {
+                "year": "2006",
+                "make": "Audi", 
+                "model": "A6", 
+                "price": "8,100",
+                "mileage": "48,000",
+                "last_5_vin": "23781",
+        
+                "engine_type": "V6",
+                "engine_size": "3.2L",
+                "transmission": "6-Speed Automatic",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "Gray",
+                "inteior_color": "Gray",
+                "body_style": "Sedan",
+                "body_doors": "4",
+                "seats": "5",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "Gray",
+                        "6-Speed Automatic",
+                        "48,000 mi"
+                    ],
+                    "maintenance_service": [
+                        "Engine oil & oil filter replacement", 
+                        "Transmission Fluid replacement",
+                        "Multi-point inspection"
+                    ]
+                },
+
+                "image_path": "images/audi-a6-2006-23781/",
+                "image_count": "17"
+            }
+        ]
+    },
+    {
+        "make": "BMW", 
+        "models": [
+            {
+                "year": "2003",
+                "make": "BMW", 
+                "model": "330i", 
+                "price": "8,995",
+                "mileage": "77,575",
+                "last_5_vin": "59289",
+        
+                "engine_type": "I6",
+                "engine_size": "3.0L",
+                "transmission": "5-Speed Automatic",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "Blue",
+                "inteior_color": "Gray",
+                "body_style": "Sedan",
+                "body_doors": "4",
+                "seats": "5",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "Blue",
+                        "5-Speed Automatic",
+                        "77,575 mi"
+                    ],
+                    "maintenance_service": [
+                        "Emissions inspection performed",
+                        "Engine oil & oil filter replacement", 
+                        "Transmission Fluid replacement"
+                    ]
+                },
+
+                "image_path": "images/bmw-330i-2003-59289/",
+                "image_count": "12"
+            }
+        ]
+    },
+    {
+        "make": "Chevrolet", 
+        "models": [
+            {
+                "year": "1991",
+                "make": "Chevrolet",  
+                "model": "Corvette ZR-1", 
+                "price": "49,995",
+                "mileage": "1,900",
+                "last_5_vin": "34719",
+        
+                "engine_type": "V8",
+                "engine_size": "5.7L",
+                "transmission": "6-Speed Manual",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "Red",
+                "inteior_color": "Red",
+                "body_style": "Coupe",
+                "body_doors": "2",
+                "seats": "2",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "Red",
+                        "6-Speed Manual",
+                        "1,900 mi"
+                    ],
+                    "maintenance_service": [
+                        "Fresh fluids to keep this collector-car worthy"
+                    ]
+                },
+                
+                "image_path": "images/chevrolet-corvette-zr1-1991-34719/",
+                "image_count": "20"
+            },
+            {
+                "year": "2005",
+                "make": "Chevrolet", 
+                "model": "Silverado 1500", 
+                "price": "8,950",
+                "mileage": "113,000",
+                "last_5_vin": "82829",
+        
+                "engine_type": "V6",
+                "engine_size": "4.3L",
+                "transmission": "4-Speed Automatic",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "White",
+                "inteior_color": "Charcoal",
+                "body_style": "Regular Cab",
+                "body_doors": "2",
+                "seats": "3",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "White",
+                        "4-Speed Automatic",
+                        "113,000 mi"
+                    ],
+                    "maintenance_service": [
+                        "New bed liner",
+                        "Diff fluid replacement",
+                        "Air filter replacement",
+                        "Tune-up peformed"
+                    ]
+                },
+
+                "image_path": "images/chevrolet-silverado-2005-82829/",
+                "image_count": "13"
+            }
+        ]
+    },
+    {
+        "make": "Cadillac", 
+        "models": [
+            {
+                "year": "2000",
+                "make": "Cadillac", 
+                "model": "Escalade 4WD", 
+                "price": "6,500",
+                "mileage": "164,000",
+                "last_5_vin": "23781",
+        
+                "engine_type": "V8",
+                "engine_size": "5.7L",
+                "transmission": "4-Speed Automatic",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "Beige",
+                "inteior_color": "Tan",
+                "body_style": "SUV",
+                "body_doors": "4",
+                "seats": "7",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "Beige",
+                        "4-Speed Automatic",
+                        "164,000 mi"
+                    ],
+                    "maintenance_service": [
+                        "Engine oil & oil filter replacement", 
+                        "Transmission Fluid replacement"
+                    ]
+                },
+
+                "image_path": "images/cadillac-escalade-2000-38272/",
+                "image_count": "1"
+            }
+        ]
+    },
+    {
+        "make": "Chrysler", 
+        "models": [
+            {
+                "year": "2005",
+                "make": "Chrysler", 
+                "model": "300 C", 
+                "price": "10,995",
+                "mileage": "115,350",
+                "last_5_vin": "06392",
+        
+                "engine_type": "V8",
+                "engine_size": "5.7L",
+                "transmission": "5-Speed Automatic",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "Silver",
+                "inteior_color": "Gray",
+                "body_style": "Sedan",
+                "body_doors": "4",
+                "seats": "5",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "Silver",
+                        "5-Speed Automatic",
+                        "115,350 mi"
+                    ],
+                    "maintenance_service": [
+                        "Front and Rear Suspension replaced", 
+                        "Transmission Fluid replacement",
+                        "Engine oil and filter replacement"
+                    ]
+                },
+
+                "image_path": "images/chrysler-300c-2005-06392/",
+                "image_count": "59"
+            },
+            {
+                "year": "2010",
+                "make": "Chrysler", 
+                "model": "Sebring Touring Convertible", 
+                "price": "7,995",
+                "mileage": "81,236",
+                "last_5_vin": "79281",
+        
+                "engine_type": "V6",
+                "engine_size": "2.7L",
+                "transmission": "4-Speed Automatic",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "Gold",
+                "inteior_color": "Brown (Tan)",
+                "body_style": "Sedan",
+                "body_doors": "2",
+                "seats": "4",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "Gold",
+                        "4-Speed Automatic",
+                        "81,236 mi"
+                    ],
+                    "maintenance_service": [
+                        "Timing chain and valve cover gasket replacement",
+                        "Engine Oil and Filter Change"
+                    ]
+                },
+
+                "image_path": "images/chrysler-sebring-touring-converstibe-2010-79281/",
+                "image_count": "16"
+            }
+        ]
+    },
+    {
+        "make": "Honda", 
+        "models": [
+            {                
+                "year": "2004",
+                "make": "Honda", 
+                "model": "Odyssey LX", 
+                "price": "4,995",
+                "mileage": "129,732",
+                "last_5_vin": "32088",
+        
+                "engine_type": "V6",
+                "engine_size": "3.5L",
+                "transmission": "5-speed Automatic",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "Silver",
+                "inteior_color": "Tan",
+                "body_style": "Van",
+                "body_doors": "4",
+                "seats": "7",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "Silver",
+                        "5-Speed Automatic",
+                        "129,732 mi"
+                    ],
+                    "maintenance_service": [
+                        "Coolant and reservoir replacement",
+                        "New tires",
+                        "Upholstery detailed"
+                    ]
+                },
+
+                "image_path": "images/honda-odyssey-lx-2004-32088/",
+                "image_count": "15"
+            }
+        ]
+    },
+    {
+        "make": "Hyundai", 
+        "models": [
+            {
+                "year": "2019",
+                "make": "Hyundai", 
+                "model": "Accent SE", 
+                "price": "13,995",
+                "mileage": "37,500",
+                "last_5_vin": "92383",
+        
+                "engine_type": "I4",
+                "engine_size": "1.6L",
+                "transmission": "6-Speed Automatic",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "Blue",
+                "inteior_color": "Black",
+                "body_style": "Sedan",
+                "body_doors": "4",
+                "seats": "5",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "Blue",
+                        "6-Speed Automatic",
+                        "37,500 mi"
+                    ],
+                    "maintenance_service": [
+                        "New tires",
+                        "Upholstery detailed"
+                    ]
+                },
+
+                "image_path": "images/hyundai-accent-se-2019-92383/",
+                "image_count": "40"
+            }
+        ]
+    },
+    {
+        "make": "Mazda", 
+        "models": [
+            {
+                "year": "2009", 
+                "make": "Mazda", 
+                "model": "RX-8", 
+                "price": "15,000",
+                "mileage": "34,400",
+                "last_5_vin": "06548",
+        
+                "engine_type": "Rotary",
+                "engine_size": "1.3L",
+                "transmission": "6-Speed Manual",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "Black",
+                "inteior_color": "Black",
+                "body_style": "Quad Coupe",
+                "body_doors": "4",
+                "seats": "4",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "Black", 
+                        "6-Speed Manual", 
+                        "34,400 mi"
+                    ],
+                    "maintenance_service": [
+                        "New Paint", 
+                        "New Brakes and Tires", 
+                        "Professionally detailed"
+                    ]
+                },
+        
+                "image_path": "images/mazda-rx-8-2009-06548/",
+                "image_count": "40"
+            }
+        ]
+    },
+    {
+        "make": "Mercedes", 
+        "models": [
+            {
+                "year": "2009",
+                "make": "Mercedes", 
+                "model": "E350 Sport", 
+                "price": "10,900",
+                "mileage": "74,560",
+                "last_5_vin": "38292",
+        
+                "engine_type": "V6",
+                "engine_size": "3.5L",
+                "transmission": "7-Speed Automatic",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "White",
+                "inteior_color": "Tan",
+                "body_style": "Sedan",
+                "body_doors": "4",
+                "seats": "5",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "White",
+                        "5-Speed Automatic",
+                        "74,560 mi"
+                    ],
+                    "maintenance_service": [
+                        "Valve cover gasket replacement",
+                        "New tires",
+                        "Radiator and water pump replacement"
+                    ]
+                },
+
+                "image_path": "images/mercedes-e350-sport-2009-38292/",
+                "image_count": "35"
+            }
+        ]
+    },
+    {
+        "make": "Toyota", 
+        "models": [
+            {
+                "year": "2004",
+                "make": "Toyota", 
+                "model": "Corolla S", 
+                "price": "8,995",
+                "mileage": "77,425",
+                "last_5_vin": "89283",
+        
+                "engine_type": "I4",
+                "engine_size": "1.8L",
+                "transmission": "4-Speed Automatic",
+                "fuel_spec": "Gasoline",
+        
+                "exterior_color": "Silver",
+                "inteior_color": "Gray",
+                "body_style": "Sedan",
+                "body_doors": "4",
+                "seats": "5",
+        
+                "description_tab": {
+                    "vehicle_info": [
+                        "Silver",
+                        "4-Speed Automatic",
+                        "77,425 mi"
+                    ],
+                    "maintenance_service": [
+                        "Front and rear suspension replacement",
+                        "Tune-up performed"
+                    ]
+                },
+                
+                "image_path": "images/toyota-corolla-s-2004-89283/",
+                "image_count": "21"
+            }
+        ]
+    }
+]
